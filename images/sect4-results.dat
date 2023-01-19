@@ -1,0 +1,20 @@
+Algorithm,Layer,Subtask,Performance
+(1+1) EA,Layer 1,Refuel,0.87063
+(1+1) EA,Layer 2,Refuel,0.365
+(1+1) EA,Layer 3,Refuel,0.28875
+(1+1) EA,Layer 1,Take-off & Survey,0.02907
+(1+1) EA,Layer 2,Take-off & Survey,0.73896
+(1+1) EA,Layer 3,Take-off & Survey,0.43652
+(1+1) EA,Layer 1,UAV Surveying Task,0.00408
+(1+1) EA,Layer 2,UAV Surveying Task,0.12144
+(1+1) EA,Layer 3,UAV Surveying Task,0.55824
+Q-Learning,Layer 1,Refuel,1
+Q-Learning,Layer 2,Refuel,0
+Q-Learning,Layer 3,Refuel,0.75313
+Q-Learning,Layer 1,Take-off & Survey,0.04846
+Q-Learning,Layer 2,Take-off & Survey,0.82444
+Q-Learning,Layer 3,Take-off & Survey,0.72790
+Q-Learning,Layer 1,UAV Surveying Task,0.04589
+Q-Learning,Layer 2,UAV Surveying Task,0.12961
+Q-Learning,Layer 3,UAV Surveying Task,0.36917
+
